@@ -1,0 +1,32 @@
+    .feedback h1{
+        font-size: 40px;
+        font-weight: bold;
+        padding-top: 20px;
+    }
+    .feedback h3{
+        font-size: 22px;
+    }
+    footer{
+        height: 90px;
+      }
+      footer p{
+        padding-top: 35px;
+       
+      }
+      .sidebar-item img{
+        width: 44px;
+        height: 44px;
+        border-radius: 50%;
+      }
+    .view_users a{
+        color: #fff;
+    }
+    .add_blog textarea{
+        resize: none;
+      }
+    .admin_profile a{
+
+         color: #fff;
+      
+          }
+    
